@@ -1,0 +1,14 @@
+{
+  "name": "derby-log",
+  "description": "Logging plugin for Derby.js",
+  "author": "Vladimir Makhaev <vmakhaev@gmail.com>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": ["derbyjs", "logging"],
+  "dependencies": {
+    "through": "~2.3.4",
+    "winston": "~0.7.2"
+  },
+  "repository": "git://github.com/vmakhaev/derby-log.git",
+  "homepage": "https://github.com/vmakhaev/derby-log"
+}
