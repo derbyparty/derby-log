@@ -9,8 +9,10 @@
 - Influenced by [winston-express](https://github.com/ifit/winston-express)
 
 ## Known Issues
+- Does not work with [Browserify 2](https://github.com/codeparty/racer/pull/169)
 - No support for mulitple loggers
 - No support for winston.profile
+- Actually only log winston methods are supported
 
 ### Installation
 ```
